@@ -1,0 +1,15 @@
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/bin/Debug/net6.0/Task1
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/bin/Debug/net6.0/Task1.deps.json
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/bin/Debug/net6.0/Task1.dll
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/bin/Debug/net6.0/Task1.pdb
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/Task1.dll
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/refint/Task1.dll
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/Task1.pdb
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/Users/ruslanfilipovich/Desktop/01 CSharp/Lesson2/Task1/obj/Debug/net6.0/ref/Task1.dll
